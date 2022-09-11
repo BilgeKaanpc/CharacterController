@@ -15,7 +15,6 @@ public class CharController : MonoBehaviour
 
     private Vector3 offset;
     public GameObject cam,player;
-    public Image image;
 
     private void Awake()
     {
